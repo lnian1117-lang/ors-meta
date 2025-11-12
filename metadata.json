@@ -1,10 +1,7 @@
 {
   "name": "Original Stone II",
   "symbol": "ORS",
-  "description": "Cyber-Cultivation • Original Stone II",
-  "image": "https://i.imgur.com/hZwEDNT.png",
-  "extensions": {
-    "website": "https://your.site/",
-    "twitter": "https://x.com/yourhandle"
-  }
+  "description": "The rebirth of Original Stone in the Cyber Cultivation world — forged by chaos, refined by ambition.",
+  "image": "https://raw.githubusercontent.com/lnian1117-lang/ors-meta/65e52d93baefcb48d030f5d7c85534fd30330a82/f9201a1a-802e-4128-b7de-f7688178ae55.png",
+  ...
 }
